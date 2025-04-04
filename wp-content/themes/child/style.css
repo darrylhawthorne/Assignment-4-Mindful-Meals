@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Twenty-twenty-five-Child
+ Theme URI:    https://bookish-invention-v666ppjq7x4qcpqpx-8000.app.github.dev/
+ Description:  Customize page
+ Author:       Darryl Hawthorne
+ Author URI:   https://github.com/darrylhawthorne
+ Template:     [Parent Theme Folder Name]
+ Version:      1.0.0
+*/
+
+/* ============================================
+   Theme customization starts here.
+   Do not edit the parent theme.
+=============================================== */
+
+.site-title a {
+    color: #FF0000;   
+}
